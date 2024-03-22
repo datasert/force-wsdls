@@ -7,4 +7,4 @@ of various API wsdls.
 Note that we added various versions we had so create a PR if you have old version, please raise a PR.
 
 # License
-I'm not sure what license Salesforce releases the wsdls so they come with whatever license Salesforce decides. We are just trying to make them available here for easy access.
+I'm not sure what license Salesforce releases the wsdls under, so files in this repo come with whatever license Salesforce releases in. We are just trying to make them available here for easy access.
